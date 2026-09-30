@@ -1,0 +1,6 @@
+{
+  "name": "Morphonoveons Transparency Portal",
+  "description": "Centralized financial transparency and accountability portal for Batch 2026 Morphonoveons, featuring real-time financial dashboards, categorized funds, jersey records, selling activities, audit trail, and document verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
